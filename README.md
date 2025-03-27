@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋Hello, I'm Victor Nóbrega, a brazillian Full Stack Developer<br> 🎓 Graduating in Computer Engineering<br> 🖥️ I'm fascinated with technology and always looking to learn new skills 
+# 💫 About Me || Sobre Mim:
+👋Hello, I'm Victor Nóbrega, a brazillian Full Stack Developer || Olá, sou Victor Nóbrega, um desenvolvedor full stack.<br> 🎓 Graduating in Computer Engineering || Graduando em Engenharia da Computação<br> 🖥️ I'm fascinated with technology and always looking to learn new skills || Sou fascinado por tecnologia e estou sempre buscando aprender mais
 
 
 
