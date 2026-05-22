@@ -1,5 +1,5 @@
 # 💫 About Me || Sobre Mim:
-👋Hello, I'm Victor Nóbrega, a Full Stack Developer || Olá, sou Victor Nóbrega, um desenvolvedor full stack<br> 🎓 Graduating in Computer Engineering || Graduando em Engenharia da Computação<br> 🖥️ I'm fascinated with technology and always looking to learn new skills || Sou fascinado por tecnologia e estou sempre buscando aprender mais<br> 🌐 My Portfolio: https://portfoliovictor.pages.dev/ || Meu Portfólio: https://portfoliovictor.pages.dev/
+👋Hello, I'm Victor Nóbrega, a Full Stack Developer || Olá, sou Victor Nóbrega, um desenvolvedor full stack<br> 🎓 Graduate in Computer Engineering || Graduado em Engenharia da Computação<br> 🖥️ I'm fascinated with technology and always looking to learn new skills || Sou fascinado por tecnologia e estou sempre buscando aprender mais<br> 🌐 My Portfolio: https://portfoliovictor.pages.dev/ || Meu Portfólio: https://portfoliovictor.pages.dev/
 
 
 
